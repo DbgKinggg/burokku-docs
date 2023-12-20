@@ -12,6 +12,11 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'Kazu Documentation',
   },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – Kazu'
+    }
+  }
 }
 
 export default config
