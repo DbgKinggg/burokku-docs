@@ -1,9 +1,9 @@
 {
-  "name": "nextra-docs-template",
+  "name": "information-aggregator-docs",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "information-aggregator-docs",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3004",
     "build": "next build",
     "start": "next start"
   },

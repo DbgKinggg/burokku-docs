@@ -2,16 +2,15 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
-  project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
-  },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  logo: <span
+    style={{
+      fontSize: '1.5rem',
+      fontWeight: 'bold',
+    }}
+  >Kazu</span>,
+  docsRepositoryBase: 'https://github.com/DbgKinggg/information-aggregator-docs',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Kazu Documentation',
   },
 }
 
