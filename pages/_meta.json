@@ -3,13 +3,25 @@
   "home": {
     "title": "Home ↗",
     "type": "page",
-    "href": "https://information-aggregator-home.vercel.app/",
+    "href": "https://burokku.one/",
     "newWindow": true
   },
-  "contact": {
-    "title": "Twitter ↗",
+  "app": {
+    "title": "App ↗",
     "type": "page",
-    "href": "https://twitter.com/DbgKinggg",
+    "href": "https://app.burokku.one/",
+    "newWindow": true
+  },
+  "blog": {
+    "title": "Blog ↗",
+    "type": "page",
+    "href": "https://blog.burokku.one/",
+    "newWindow": true
+  },
+  "twitter": {
+    "title": "X ↗",
+    "type": "page",
+    "href": "https://twitter.com/burokku_one",
     "newWindow": true
   }
 }
